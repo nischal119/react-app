@@ -1,18 +1,14 @@
 E-Commerce React Project
-Welcome to the E-Commerce React Project! This is a complete e-commerce web application built using React. It provides a user-friendly interface for customers to browse products, add them to a shopping cart, and complete the checkout process.
+
+Welcome to the E-Commerce React Project!
+This is a complete e-commerce web application built using React. It provides a user-friendly interface for customers to browse products, add them to a shopping cart.
 
 Features
 The E-Commerce React Project includes the following features:
 
 Product Listing: View a list of products with their details, such as name, price, and image.
-Product Search: Search for specific products using keywords or filters.
-Product Filtering: Filter products based on various attributes, such as category, price range, or availability.
-Product Sorting: Sort products by price, popularity, or other relevant criteria.
-Product Details: Access detailed information about a specific product, including description, reviews, and related items.
 Shopping Cart: Add products to a cart and manage quantities.
 Cart Summary: View a summary of items in the cart, including the total price.
-Checkout Process: Proceed through a multi-step checkout process, including shipping and payment information.
-Order Confirmation: Receive a confirmation message after successfully placing an order.
 Installation
 To run the E-Commerce React Project locally, follow these steps:
 
